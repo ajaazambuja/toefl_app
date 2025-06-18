@@ -1,0 +1,8 @@
+{
+  "name": "TOEFL Prep Pro",
+  "description": "An interactive web application for TOEFL preparation, offering practice modules for grammar, vocabulary, listening, reading comprehension, and pronunciation with AI-powered feedback and adaptive difficulty.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
